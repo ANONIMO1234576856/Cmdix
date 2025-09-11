@@ -6,6 +6,10 @@
 > [!TIP]
 > Application is specifically designed `for Android 9+` devices. 
 
+![Last Commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro)
+![Downloads](https://img.shields.io/github/downloads/Sketchware-Pro/Sketchware-Pro/total)
+![Repo Size](https://img.shields.io/github/repo-size/Cmdix)
+
 Cmdix is a versatile, flexible, and easy-to-use Android terminal application tool., connected with Shizuku, this application is specifically `for Android 9+` users.Made by **Nozz Trick** using **_Skectware Pro_**
 
 # Feature
