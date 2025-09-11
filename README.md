@@ -3,7 +3,7 @@
 > [!TIP]
 > Application is specifically designed `for Android 9+` devices. 
 
-Cmdix Is An Android Terminal Application That Is Simple and modern, connected with Shizuku, this application is specifically `for Android 9+` users.Made by Nozz Trick using _Skectware_ 
+Cmdix is a versatile, flexible, and easy-to-use Android terminal application tool., connected with Shizuku, this application is specifically `for Android 9+` users.Made by **Nozz Trick** using **_Skectware Pro_**
 
 # Feature
 - Modern and Minimalist UI
