@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/images/cmdix_icon.png" alt="Cmdix Icon App" width="300"/>
+  <img src="src/images/cmdix_icon.png" alt="Cmdix Icon App" width="200"/>
 </div>
 
 # Cmdix
