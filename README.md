@@ -1,4 +1,7 @@
-![Cmdix Icon App](src/images/cmdix_icon.png)
+<div align="center">
+  <img src="src/images/cmdix_icon.png" alt="Cmdix Icon App" width="300"/>
+</div>
+
 # Cmdix
 > [!TIP]
 > Application is specifically designed `for Android 9+` devices. 
