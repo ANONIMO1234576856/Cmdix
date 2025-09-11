@@ -15,6 +15,8 @@ Cmdix is a versatile, flexible, and easy-to-use Android terminal application too
 - Available in two languages: Indonesian and English 
   
 # Screenshot
-![Screen1](src/images/screen1.png)
-![Screen2](src/images/screen2.png)
-![Screen3](src/images/screen3.png)
+<p align="center">
+  <img src="scr/images/screen1.png" alt="Screenshot 1" width="250"/>
+  <img src="src/images/screent2.png" alt="Screenshot 2" width="250"/>
+  <img src="src/images/screen3.png" alt="Screenshot 3" width="250"/>
+</p>
