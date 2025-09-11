@@ -18,7 +18,10 @@ Cmdix is a versatile, flexible, and easy-to-use Android terminal application too
 - Running a Shell (With Shizuku)
 - Run .sh Files with One Click
 - Available in two languages: Indonesian and English 
-  
+
+# Credit
+- [Sketchware Pro]() Application Development 
+- [Shizuku](https://github.com/RikkaApps/Shizuku)/[API](https://github.com/RikkaApps/Shizuku-API) Providing More Access To Apps
 # Screenshot
 <p align="center">
   <img src="src/images/banners.jpg" alt="Banner Cmdix" width="250"/>
