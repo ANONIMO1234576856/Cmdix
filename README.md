@@ -29,3 +29,12 @@ Cmdix is a versatile, flexible, and easy-to-use Android terminal application too
   <img src="src/images/screen2.png" alt="Screenshot 2" width="250"/>
   <img src="src/images/screen3.png" alt="Screenshot 3" width="250"/>
 </p>
+
+# Support
+- [YouTube Channel](https://youtube.com/@nozztr) Support and follow the development of this project
+- [Contact Me](nozzdev16@gmail.com) Report bugs or request collaboration 
+
+# Donation
+<p algin="center">
+ <img src="src/images/donate.png" alt="Doante" width="300"/>
+</p>
